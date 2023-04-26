@@ -1,9 +1,12 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY1ZGRiYWEzZjcwOGYxYWU4N2Q1ZjgzMjc1ZmNkZTk3N2FlYjcwMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif)](https://ibrahimbmohammed.tech/)
+
+<p  align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY1ZGRiYWEzZjcwOGYxYWU4N2Q1ZjgzMjc1ZmNkZTk3N2FlYjcwMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead" width="500"/>
+</p>
 <h1 align="center">Hi 👋, I'm Ibrahim Mohammed</h1>
 <h3 align="center">A software Engineer with a knack for cybersecurity, my prime motivation is excellence and to excel at any task. I have an inquisitive mind, thus always seeking new adventures and challenges. I'm not interested in only developing IT solutions, but rather developing safe IT solutions that are imbued with cyber security consciousness in both design and implementation.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimbmohammed" alt="ibrahimbmohammed" /></a> </p>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=ibrahimbmohammed" alt="ibrahimbmohammed" /></a> </p>
 
 - 🔭 I’m currently working on **Peddlesoft**
 
